@@ -1,0 +1,11 @@
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\sayıtahminoyunu\sayıtahminoyunu\obj\Debug\sayıtahminoyunu.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\sayıtahminoyunu\sayıtahminoyunu\obj\Debug\sayıtahminoyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\sayıtahminoyunu\sayıtahminoyunu\obj\Debug\sayıtahminoyunu.Form1.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\sayıtahminoyunu\sayıtahminoyunu\obj\Debug\sayıtahminoyunu.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\sayıtahminoyunu\sayıtahminoyunu\obj\Debug\sayıtahminoyunu.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\sayıtahminoyunu\sayıtahminoyunu\obj\Debug\sayıtahminoyunu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\sayıtahminoyunu\sayıtahminoyunu\bin\Debug\sayıtahminoyunu.exe.config
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\sayıtahminoyunu\sayıtahminoyunu\bin\Debug\sayıtahminoyunu.exe
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\sayıtahminoyunu\sayıtahminoyunu\bin\Debug\sayıtahminoyunu.pdb
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\sayıtahminoyunu\sayıtahminoyunu\obj\Debug\sayıtahminoyunu.exe
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\sayıtahminoyunu\sayıtahminoyunu\obj\Debug\sayıtahminoyunu.pdb
